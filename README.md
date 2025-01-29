@@ -83,5 +83,5 @@ I have successfully completed various certifications to enhance my knowledge and
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nandha2804&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-[![@nandha2804's Holopin board](https://holopin.me/nandha2804)](https://holopin.io/@nandha2804)
+
 
