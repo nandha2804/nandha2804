@@ -43,10 +43,12 @@ I have successfully completed various certifications to enhance my knowledge and
 - **Download my Resume**: [Nandakumar_C-2025.pdf](https://docs.google.com/document/d/16CmUamzH6pcTC9ehYbb4cLyvYyJbe_5TmbvRQ6AbKfQ/edit?tab=t.0)
 ---
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandakumar-chinnasamy-835ba9286/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandakumar-chinnasamy-835ba9286/)  
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@cnkumar28)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/your-facebook-username)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/your-instagram-username)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/your-twitter-username)  
+
 
 ---
 ## 💻 Tech Stack:
