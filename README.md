@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm NANDAKUMAR CHINNASAMY</h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3><p align="center"><b>🔒 Software Developer | Cybersecurity Enthusiast | Vulnerability Hunter</b></p></h3>
+<h3><p align="center"><b>🔒 Software Developer | Cybersecurity Enthusiast</b></p></h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -25,7 +25,6 @@ I am a dedicated Software Developer specializing in the Python stack, with a pas
 - **Automate & Enhance**: Crafting Python scripts to streamline workflows and improve system performance.
 - **Deploy & Manage**: Leveraging Linux environments for seamless deployment, security, and performance tuning.
 - **Script & Automate**: Crafting Python and Bash scripts to automate tasks and enhance security measures.
-- **Linux Customization**: Mastering Linux systems for optimal performance and security.
 
 ---
 
@@ -34,7 +33,7 @@ I am a dedicated Software Developer specializing in the Python stack, with a pas
 - **Frontend**: React.js, JavaScript, html5, CSS3, Tailwind CSS,
 - **Technologies**: Docker, OpenCV, Django, MySQL, MongoDB, Devops
 - **Operating Systems**: Kali Linux, Ubuntu, Windows
-- **Cybersecurity**: Ethical Hacking, Vulnerability Assessment, Penetration Testing
+- **Cybersecurity**: Ethical Hacking, Vulnerability Assessment,
 ---
 ## 📜 Certifications
 I have successfully completed various certifications to enhance my knowledge and skills in cybersecurity, programming, and web development. You can view all my certifications here:  
@@ -52,7 +51,6 @@ I have successfully completed various certifications to enhance my knowledge and
 ---
 ## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-%23EE0000.svg?style=flat&logo=red-hat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=flat&logo=python&logoColor=blue)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
@@ -60,20 +58,14 @@ I have successfully completed various certifications to enhance my knowledge and
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=flat&logo=kalilinux&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=flat&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=5C3EE8)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
