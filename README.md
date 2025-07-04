@@ -30,10 +30,12 @@ I am a dedicated Software Developer specializing in the Python stack, with a pas
 
 ## 🛠️ Skills
 - **Languages**: Python, Java, Node.js, SQL, Bash
-- **Frontend**: React.js, JavaScript, html5, CSS3, Tailwind CSS,
+- **Frontend**: React.js, JavaScript, html5, CSS3, Tailwind CSS
 - **Technologies**: Docker, OpenCV, Django, MySQL, MongoDB, Devops
 - **Operating Systems**: Kali Linux, Ubuntu, Windows
-- **Cybersecurity**: Ethical Hacking, Vulnerability Assessment,
+- **Cybersecurity**: Ethical Hacking, Vulnerability Assessment
+- **Networking**:TCP/IP, DNS, HTTP/HTTPS, WebSockets, REST APIs, Socket Programming, Network Protocol Debugging, VPN & Proxy Configuration
+
 ---
 ## 📜 Certifications
 I have successfully completed various certifications to enhance my knowledge and skills in cybersecurity, programming, and web development. You can view all my certifications here:  
