@@ -29,7 +29,7 @@ I am a dedicated Software Developer specializing in the Python stack, with a pas
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, Java, Node.js, SQL, Bash
+- **Backend**: Python, Java, Node.js, SQL, Bash
 - **Frontend**: React.js, JavaScript, html5, CSS3, Tailwind CSS
 - **Technologies**: Docker, OpenCV, Django, MySQL, MongoDB, Devops
 - **Operating Systems**: Kali Linux, Ubuntu, Windows
@@ -41,9 +41,9 @@ I am a dedicated Software Developer specializing in the Python stack, with a pas
 I have successfully completed various certifications to enhance my knowledge and skills in cybersecurity, programming, and web development. You can view all my certifications here:  
 [**Certification Folder**](https://drive.google.com/drive/u/0/folders/1oVRnwNEBzYflawwZx8AQ135OqOQfiZxn)
 ---
-## 📄 Resume
+<!-- ## 📄 Resume
 - **Download my Resume**: [Nandakumar_C-2025.pdf](https://docs.google.com/document/d/16CmUamzH6pcTC9ehYbb4cLyvYyJbe_5TmbvRQ6AbKfQ/edit?tab=t.0)
----
+--- -->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandakumar-chinnasamy-835ba9286/)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@cnkumar28)
