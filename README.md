@@ -84,12 +84,13 @@ I have successfully completed various certifications to enhance my knowledge and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nandha2804&theme=highcontrast&hide_border=false)
 
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nandha2804&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandha2804&layout=compact&theme=radical)
 
-<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandha2804&layout=compact&theme=radical" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandha2804&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
+## 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandha2804&theme=react-dark)](https://github.com/nandha2804)
