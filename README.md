@@ -83,8 +83,9 @@ I have successfully completed various certifications to enhance my knowledge and
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nandha2804&theme=highcontrast&hide_border=false)
 
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nandha2804&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nandha2804&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
