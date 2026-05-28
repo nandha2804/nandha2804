@@ -100,26 +100,3 @@ I have successfully completed various certifications to enhance my knowledge and
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandha2804&theme=react-dark)](https://github.com/nandha2804)
 
 
-
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandha2804&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandha2804&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nandha2804&theme=tokyonight&hide_border=true"/>
-</p>
-
-# 🏅 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandha2804&theme=tokyonight"/>
-</p>
-
-# 📈 Contribution Graph
-
-[![Nandha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandha2804&theme=tokyo-night)](https://github.com/nandha2804)
