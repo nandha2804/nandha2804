@@ -83,6 +83,10 @@ I have successfully completed various certifications to enhance my knowledge and
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nandha2804&theme=highcontrast&hide_border=false)
 
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandha2804&layout=compact&theme=radical)
+
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
